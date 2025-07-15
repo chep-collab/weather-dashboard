@@ -1,9 +1,7 @@
 
-### 📝 Refined `README.md` for `weather-dashboard`
 
-```markdown
 # 🌦️ Weather Dashboard
-
+ https://chep-collab.github.io/weather-dashboard/
 A simple and responsive weather app built with **HTML**, **CSS**, and **JavaScript**. Users can search for any city and view real-time weather conditions including temperature, humidity, wind speed, and weather icons—powered by the **OpenWeatherMap API**.
 
 ---
