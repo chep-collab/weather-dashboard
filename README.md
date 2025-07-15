@@ -1,29 +1,94 @@
-This is a simple and user-friendly Weather App built using HTML, CSS, and JavaScript. It allows users to check real-time weather conditions for any city. The app fetches data from a weather API and displays important details such as temperature, humidity, wind speed, and weather conditions.
-Features
-✅ Search for weather by city name 🌍
-✅ Displays real-time temperature, humidity, and wind speed 🌡️
-✅ User-friendly and responsive design 📱💻
-✅ Updates background based on weather conditions
-Technologies Used
-HTML 🏗️
-CSS 🎨
-JavaScript ⚡
-OpenWeatherMap API 🌍
-Installation & Setup
-Clone the repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
-Get your API key from OpenWeatherMap
-Open index.html in a browser
-Usage
-Enter a city name in the search bar and press Enter
-View real-time weather details
-Refresh the page to check another city
-Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests. 🚀
 
-License
-This project is open-source and available under the MIT License.
+### 📝 Refined `README.md` for `weather-dashboard`
+
+```markdown
+# 🌦️ Weather Dashboard
+
+A simple and responsive weather app built with **HTML**, **CSS**, and **JavaScript**. Users can search for any city and view real-time weather conditions including temperature, humidity, wind speed, and weather icons—powered by the **OpenWeatherMap API**.
+
+---
+
+## ✨ Features
+
+- 🔍 Search weather by city name
+- 🌡️ Displays temperature, humidity, and wind speed
+- 🖼️ Dynamic background based on weather conditions
+- 📱 Mobile-friendly and responsive design
+- ⚡️ Fast and lightweight frontend
+
+---
+
+## 🛠 Tech Stack
+
+| Technology        | Role                          |
+|-------------------|-------------------------------|
+| HTML              | Page structure                |
+| CSS               | Styling and layout            |
+| JavaScript        | Interactivity and API calls   |
+| OpenWeatherMap API| Weather data source           |
+
+---
+
+## 📦 Project Structure
+
+```
+weather-dashboard/
+├── index.html        # Main HTML file
+├── styles.css        # Custom styles
+├── script.js         # JavaScript logic
+├── README.md         # Project documentation
+├── images/           # Weather icons and backgrounds
+```
+
+---
+
+## ⚙️ Getting Started
+
+### Clone the repo
+
+```bash
+git clone https://github.com/chep-collab/weather-dashboard.git
+cd weather-dashboard
+```
+
+### Setup
+
+1. Get your API key from [OpenWeatherMap](https://openweathermap.org/api)
+2. Replace the placeholder in `script.js` with your API key
+3. Open `index.html` in your browser
+
+---
+
+## 📸 Screenshots
+
+_Add screenshots of the search bar, weather results, and mobile layout here._
+
+```markdown
+![Search UI](./images/search-ui.png)
+![Weather Results](./images/weather-results.png)
+![Mobile View](./images/mobile.png)
+```
+
+---
+
+## 📌 Roadmap
+
+- [ ] Add 5-day forecast view
+- [ ] Improve accessibility
+- [ ] Add loading spinner and error handling
+- [ ] Deploy to GitHub Pages
+
+---
+
+## 👤 Author
+
+**Mercy Chepngeno
+[GitHub Profile](https://github.com/chep-collab)
+
+---
+
+## 📄 License
+
+MIT
+
+
